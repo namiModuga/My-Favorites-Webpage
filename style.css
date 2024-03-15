@@ -1,0 +1,33 @@
+.center {
+  text-align: center;
+}
+.bigpic {
+  width: 550px;
+}
+.smallpic {
+  width: 150px;
+}
+body {
+  width: 700px;
+  margin: 100px auto;
+  background-color: rgba(119, 153, 17, 0.5);
+  padding: 25px 75px;
+  border-radius: 50px;
+}
+html {
+  background-color: #65000b;
+  background: url("img/fieldbackground.webp") no-repeat center;
+  background-size: cover;
+}
+h1 {
+  text-decoration: underline;
+  font-family: "Courier New", Courier, monospace;
+}
+h2 {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+a {
+  font-family: "Courier New", Courier, monospace;
+  color: blue;
+}
